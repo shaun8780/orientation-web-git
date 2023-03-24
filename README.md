@@ -9,13 +9,13 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] View this README  
 - [x ] Create a GitHub Account  
 - [x] Open your Command Line Interface  
-- [x ] Setting up your Username and Email  
-- [x ] Setting up your Authentication  
-- [x ] Forking a Repository  
+- [x] Setting up your Username and Email  
+- [x] Setting up your Authentication  
+- [x] Forking a Repository  
 - [x] Cloning a Repository  
-- [x ] Making Changes to the Repository  
-- [ ] Commiting Changes Locally  
-- [ ] Moving Changes to GitHub   
+- [x] Making Changes to the Repository  
+- [x] Commiting Changes Locally  
+- [x] Moving Changes to GitHub   
 - [ ] Standard Work Flow
 
 ---
